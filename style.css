@@ -292,8 +292,10 @@ section {
 }
 
 .about-pic {
+  width: 100%;
+  object-fit: contain;
   border-radius: 2rem;
-  height: 135%;
+  height: auto;
 }
 
 .arrow {
