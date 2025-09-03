@@ -7,7 +7,7 @@ It highlights my projects, skills, education, and ways to connect with me as a *
 
 ## 🚀 Live Portfolio
 
-👉 [Live Portfolio Website](https:gerardosdl.com)
+👉 [Live Portfolio Website](https://gerardosdl.com)
 
 ---
 
